@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.ms.controller.CurrencyController"/>
+<fullyQualifiedTypeName name="com.netflix.ribbon.proxy.annotation.Hystrix"/>
+<fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.SpringBootApplication"/>
+<fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.web.reactive.function.client.WebClientAutoConfiguration"/>
+<fullyQualifiedTypeName name="com.ms.service.WelcomeService"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.netflix.eureka.server.EnableEurekaServer"/>
+<fullyQualifiedTypeName name="lombok.Data"/>
+<fullyQualifiedTypeName name="com.ms.service.CustomerService"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.client.discovery.EnableDiscoveryClient"/>
+<fullyQualifiedTypeName name="org.springframework.web.reactive.function.client.WebClient"/>
+<fullyQualifiedTypeName name="com.ms.model.CustomerRespModel"/>
+<fullyQualifiedTypeName name="freemarker.core.Environment"/>
+<fullyQualifiedTypeName name="com.ms.constants.AppConstants"/>
+<fullyQualifiedTypeName name="org.springframework.core.env.Environment"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.client.circuitbreaker.EnableCircuitBreaker"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.netflix.hystrix.EnableHystrix"/>
+<fullyQualifiedTypeName name="com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand"/>
+<fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlRootElement"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ControllerAdvice"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ExceptionHandler"/>
+<fullyQualifiedTypeName name="com.ms.exception.CustomerIDNotFoundException"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.openfeign.FeignClient"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+<fullyQualifiedTypeName name="com.ms.model.AddressModel"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.openfeign.EnableFeignClients"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.netflix.ribbon.RibbonClient"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.netflix.eureka.EnableEurekaClient"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.netflix.zuul.EnableZuulProxy"/>
+<fullyQualifiedTypeName name="com.netflix.zuul.ZuulFilter"/>
+<fullyQualifiedTypeName name="com.netflix.zuul.context.RequestContext"/>
+<fullyQualifiedTypeName name="ch.qos.logback.classic.Logger"/>
+<fullyQualifiedTypeName name="org.hibernate.validator.internal.util.logging.LoggerFactory"/>
+<fullyQualifiedTypeName name="org.slf4j.Logger"/>
+<fullyQualifiedTypeName name="org.slf4j.LoggerFactory"/>
+<fullyQualifiedTypeName name="org.springframework.cglib.core.Block"/>
+</qualifiedTypeNameHistroy>
